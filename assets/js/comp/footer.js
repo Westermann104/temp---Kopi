@@ -3,17 +3,17 @@
 const footerHTML = `
     <div class="footer-content">
 
+        <h1>Kontakt Os</h1>
         <label for="fname"></label>
-        <input type="text" id="fname" name="firstname" placeholder="NAVN..">
+        <input type="text" id="fname" name="fname" placeholder="NAVN.." required />
 
-        <label for="Gmail"></label>
-        <input type="email" id="gmail" name="gmail" placeholder="E-MAIL.." />
+        <label for="gmail"></label>
+        <input type="email" id="gmail" name="gmail" placeholder="E-MAIL.." required />
 
-        <label for="Besked"></label>
-        <textarea id="Besked" name="Besked" placeholder="SKRIV BESKED.."></textarea>
+        <label for="besked"></label>
+        <textarea id="besked" name="besked" placeholder="SKRIV BESKED.." required></textarea>
 
-        <button class="submit">SEND BESKED</button>
-        </div>
+        <button class="btnsubmit">SEND BESKED</button>
 `;
 
 export const footer = () => {   
