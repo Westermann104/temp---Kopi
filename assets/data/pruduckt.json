@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "name": "Tasker",
+      "description": "Udforsk vores eksklusive kollektion af lædertasker, designet til den moderne kvinde, der værdsætter både stil og funktionalitet. Vores lædertasker er fremstillet af højkvalitets læder, og hver eneste detalje er omhyggeligt udformet for at give dig en sofistikeret og tidløs taske. Med feminine detaljer som elegante syninger, luksuriøse foringer og stilfulde metalelementer er vores tasker både praktiske og elegante. Uanset om du har brug for en rummelig skuldertaske til hverdagsbrug eller en chic clutch til særlige lejligheder, finder du den perfekte lædertaske hos os.",
+      "icon": ""
+    },
+    {
+      "name": "Bælter",
+      "description": "Udforsk vores eksklusive kollektion af lædertasker, designet til den moderne kvinde, der værdsætter både stil og funktionalitet. Vores lædertasker er fremstillet af højkvalitets læder, og hver eneste detalje er omhyggeligt udformet for at give dig en sofistikeret og tidløs taske. Med feminine detaljer som elegante syninger, luksuriøse foringer og stilfulde metalelementer er vores tasker både praktiske og elegante. Uanset om du har brug for en rummelig skuldertaske til hverdagsbrug eller en chic clutch til særlige lejligheder, finder du den perfekte lædertaske hos os.",
+      "icon": ""
+    },
+    {
+      "name": "Sko",
+      "description": "Udforsk vores eksklusive kollektion af lædertasker, designet til den moderne kvinde, der værdsætter både stil og funktionalitet. Vores lædertasker er fremstillet af højkvalitets læder, og hver eneste detalje er omhyggeligt udformet for at give dig en sofistikeret og tidløs taske. Med feminine detaljer som elegante syninger, luksuriøse foringer og stilfulde metalelementer er vores tasker både praktiske og elegante. Uanset om du har brug for en rummelig skuldertaske til hverdagsbrug eller en chic clutch til særlige lejligheder, finder du den perfekte lædertaske hos os.",
+      "icon": ""
+    }
+
+  ]
+}
