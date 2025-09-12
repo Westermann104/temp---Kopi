@@ -1,0 +1,53 @@
+/* === Topbar === */
+.topbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--light);
+    padding: 0.5rem 1rem;
+    font-size: 0.9rem;
+    letter-spacing: 0.5px;
+    background-color: black;
+}
+.topbar img {
+    width: 18px;
+    margin-right: 0.5rem;
+    filter: brightness(0) invert(1);
+}
+.topbar p {
+    color: white;
+}
+/* === Navigation === */
+.header_bar {
+    background-color:rgb(110, 109, 109);
+    border: 1px solid #ddd;
+}
+.header_bar ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    padding: 0.8rem 0;
+}
+.header_bar li {
+    margin: 0 1.2rem;
+}
+
+
+.header_bar a {
+    text-decoration: none;
+    color: var(--dark);
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 0.85rem;
+    transition: color 0.3s ease;
+}
+
+.header_bar a:hover {
+    background-color: rgb(255, 140, 0);
+    color: white;
+    padding: 0.5rem 0.8rem; /* lidt ekstra klikområde */
+    border-radius: 4px;      /* afrundede hjørner */
+    transition: all 0.3s ease;
+}
