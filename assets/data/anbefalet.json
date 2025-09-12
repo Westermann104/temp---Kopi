@@ -1,0 +1,31 @@
+{
+    "anbefalinger":[
+{
+"src":"assets/img/sko_guld.jpeg",
+"alt":"",
+"titel":"lili Gold Glitter",
+"mærke":"roccamore",
+"price":"2200"
+},
+{
+"src":"assets/img/taske1.jpeg",
+"alt":"",
+"titel":"Garda Totetaske",
+"mærke":"Saddler",
+"price":"1500"
+},
+{
+"src":"assets/img/taske3.jpeg",
+"alt":"",
+"titel":"Mia Skuldertaske",
+"mærke":"Saddler",
+"price":"2200"
+},
+{
+"src":"assets/img/bælte3.jpeg",
+"alt":"",
+"titel":"Mercy Ruskindsbælte",
+"mærke":"Saddler",
+"price":"500"
+}
+]}
